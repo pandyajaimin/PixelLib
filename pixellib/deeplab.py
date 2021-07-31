@@ -2,7 +2,7 @@ from __future__ import absolute_import
 from __future__ import division
 from __future__ import print_function
 
-import tensorflow as tf
+import tensorflow as tf     # Import Tensorflow
 
 from tensorflow.python.keras.models import Model
 from tensorflow.python.keras import layers
